@@ -30,6 +30,9 @@ Redesigned a LabVIEW-based test automation flow that cut test cycle time by **70
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logoColor=white)
 ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Green_Belt-2E8B57?style=flat)
 
+## Projects
+- [Wireless Doorbell with Vibration Alert](https://github.com/yinminhtay/wireless-doorbell-ite): RF transmitter/receiver, transistor relay driver, circuit integration and troubleshooting (ITE)
+
 **Lab equipment:** oscilloscopes, multimeters, power meters, audio analysers
 
 ## 🌱 Currently learning
